@@ -2,3 +2,4 @@
 *.x11
 *.term
 *.sage-jupyter2
+__pycache__
