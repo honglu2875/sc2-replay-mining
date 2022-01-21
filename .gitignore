@@ -1,5 +1,6 @@
-*.ipynb
+/*.ipynb
 *.x11
 *.term
 *.sage-jupyter2
-__pycache__
+__pycache_
+_
