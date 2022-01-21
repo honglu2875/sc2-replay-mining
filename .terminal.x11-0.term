@@ -1,0 +1,33 @@
+]0;~/sc2-replay-mining[01;34m~/sc2-replay-mining[00m$ [K]0;~/sc2-replay-mining[01;34m~/sc2-replay-mining[00m$ ls
+[0m[01;34mreplay[0m
+starcraft2-replay-analysis_test.ipynb
+terminal.x11
+[01;34mutil[0m
+]0;~/sc2-replay-mining[01;34m~/sc2-replay-mining[00m$ ls -l
+total 409
+drwxr-xr-x 17 user user     17 Jan 19 21:21 [0m[01;34mreplay[0m
+-rw-r--r--  1 user user 819089 Jan 21 09:07 starcraft2-replay-analysis_test.ipynb
+-rw-r--r--  1 user user      0 Jan 21 09:08 terminal.x11
+drwxr-xr-x  3 user user      7 Jan 20 18:22 [01;34mutil[0m
+]0;~/sc2-replay-mining[01;34m~/sc2-replay-mining[00m$ ls -a
+[0m[01;34m.[0m
+[01;34m..[0m
+..gitignore.x11-0.term
+[01;34m.git[0m
+.gitignore
+.gitignore.x11
+.starcraft2-replay-analysis_test.ipynb.sage-jupyter2
+.terminal.x11-0.term
+[01;34mreplay[0m
+starcraft2-replay-analysis_test.ipynb
+terminal.x11
+[01;34mutil[0m
+]0;~/sc2-replay-mining[01;34m~/sc2-replay-mining[00m$ more .[K[K[K[K[K[Kls
+[0m[01;34mreplay[0m
+starcraft2-replay-analysis_test.ipynb
+terminal.x11
+[01;34mutil[0m
+]0;~/sc2-replay-mining[01;34m~/sc2-replay-mining[00m$ vim .i[Kgitignore
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;19r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[19;1H".gitignore" 1L, 8C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H*.ipynb
+[94m~                                                 [3;1H~                                                 [4;1H~                                                 [5;1H~                                                 [6;1H~                                                 [7;1H~                                                 [8;1H~                                                 [9;1H~                                                 [10;1H~                                                 [11;1H~                                                 [12;1H~                                                 [13;1H~                                                 [14;1H~                                                 [15;1H~                                                 [16;1H~                                                 [17;1H~                                                 [18;1H~                                                 [m[19;33H1,1[11CAll[1;1H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?12$p[?25l[19;23Ho[1;1H[19;23H [2;1H[19;1H[1m-- INSERT --[m[19;14H[K[19;33H2,1[11CAll[2;1H[K[2;1H[?25h[?25l*[19;35H2[2;2H[?25h[?25l.[19;35H3[2;3H[?25h[?25li[19;35H4[2;4H[?25h[?25l[2;3H[K[19;35H3[2;3H[?25h[?25lx[19;35H4[2;4H[?25h[?25l1[19;35H5[2;5H[?25h[?25l1[19;35H6[2;6H[?25h[19;1H[K[2;5H[?25l[19;23H^[[2;5H[19;23H  [2;6H[19;33H2,5[11CAll[2;5H[?25h[?25l[19;23H:[2;5H[19;23H[K[19;1H:[?2004h[?25hwq[?25l[?2004l".gitignore"<ore" 2L, 14C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;~/sc2-replay-mining[01;34m~/sc2-replay-mining[00m$ g
